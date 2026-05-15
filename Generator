@@ -1,0 +1,5 @@
+get username
+username = get(1)
+display "Enter Username"
+UserInput() = username
+display username
